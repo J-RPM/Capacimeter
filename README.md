@@ -1,3 +1,4 @@
-# Capacimeter
-Building a capacitance meter with Arduino, using the 'CapacitorLite' and 'Capacitor.h' libraries.
-More information:http://j-rpm.com/2022/10/capacimetro-con-arduino/
+# Capacimeter & ESR
+The features of this capacitance meter are expanded according to the most common use needs:
+Measure capacitances between 1pF and 10,000μF accurately
+Measure ESR values of capacitors starting at 10μF
